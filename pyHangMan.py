@@ -1,6 +1,6 @@
 # *************** INITIAL GAME SET-UP ****************** : 
 import random
-word_list = ["Abheshek", "Gotham", "Chomuditya", "jhatin", "Sembhage", "Patrick", "Shawty Tepchi"]
+word_list = ["Apple", "Mango", "Banana", "Pear", "Straw Berry", "Pine Apple", "Tomato"]
 stages = ['''
   +---+
   |   |
