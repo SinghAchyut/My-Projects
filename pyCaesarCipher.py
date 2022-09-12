@@ -30,6 +30,6 @@ while ( 1 ) :
         print(f"The {cipher_direction}d text is {end_text}")
     caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
 
-    choice = input (print ("Do you want to continue ciphering ? yes/no"))
+    choice = input (print ("Do you want to continue ciphering ? yes/no")) # ender statement 
     if choice == "no" :
         break
